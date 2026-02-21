@@ -4,7 +4,7 @@
 Teaching machines to learn, one byte at a time
 </p>
 
-<img src="[https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat](https://github.com/lekshanapriya2003/prya/blob/main/Photo.jpeg)" />
+<img src="Photo.jpeg" />
 
 ---
 
