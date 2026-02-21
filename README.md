@@ -4,7 +4,9 @@
 Teaching machines to learn, one byte at a time
 </p>
 
-<img src="Photo.jpeg" />
+<p align="center">
+  <img src="Photo.jpeg" width="180" style="border-radius:50%;" />
+</p>
 
 ---
 
